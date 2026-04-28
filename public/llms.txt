@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפש רכב איכותי במחיר הטוב ביותר? מכירת רכבים מציעה מגוון עצום של כלי רכב למכירה אונליין. עיין בקטלוג, השווה מחירים ומצא את הרכב המושלם עבורך היום!
+
+### למה אנחנו
+https://example.com/why-choose-us
+יתרונות ברורים, שירות אישי ומחירים שקופים – גלה מדוע מכירת רכבים היא הבחירה הראשונה של קוני הרכב בישראל. bcs automotive interface solutions מוביל את הסטנדרט החדש!
+
+### אודות
+https://example.com/about
+הכר את הצוות המקצועי והחזון שמניע את מכירת רכבים קדימה. אנחנו מאמינים בשקיפות, איכות ושירות ללא פשרות – כי כל לקוח ראוי לחוויית רכישה יוצאת דופן!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על רכב ספציפי? צוות המומחים של מכירת רכבים זמין עבורך עכשיו. פנה אלינו דרך הטופס, בטלפון או בצ&#39;אט ונמצא יחד את הפתרון המושלם עבורך!
+
+### Products
+https://example.com/products
+המוצרים שלנו - מכירת רכבים
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - מכירת רכבים
+
+### Category
+https://example.com/category/:slug
+מוצרים - מכירת רכבים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
